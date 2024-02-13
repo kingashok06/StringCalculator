@@ -4,9 +4,8 @@
 
 Clone the repository:
 
-git 
-'''bash
-clone https://github.com/yourusername/string-calculator-java.git
+```bash
+git clone https://github.com/yourusername/string-calculator-java.git
 
 [Include any other installation steps here]
 
