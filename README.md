@@ -4,7 +4,6 @@
 
 Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/string-calculator-java.git
 
 ## Project Structure
